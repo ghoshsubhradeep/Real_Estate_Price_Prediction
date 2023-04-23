@@ -10,10 +10,10 @@ Here is the folder structure,
 
 Technologies used in this project,
 - Python
-- Numpy and OpenCV for data cleaning
-- Matplotlib & Seaborn for data visualization
+- Numpy and Pandas for data cleaning
+- Matplotlib for data visualization
 - Sklearn for model building
-- Jupyter notebook, visual studio code and pycharm as IDE
+- Jupyter notebook, visual studio code as IDE
 - Python flask for http server
 - HTML/CSS/Javascript for UI
 
